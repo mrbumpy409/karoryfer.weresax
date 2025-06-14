@@ -48,7 +48,7 @@
 
 	<StaticText x="389"  y="132" w="80" h="18" text="Brightness" color_text="#FFFFFFFF" transparent="1" />
 	
-	<Knob param="115" x="415"  y="155" image="brown_knob.png" frames="127"  />
+	<Knob param="115" x="415"  y="155" image="brown_knob.png" frames="128"  />
 
 	<StaticText x="479"  y="132" w="80" h="18" text="Wind Noise" color_text="#FFFFFFFF" transparent="1" />
 	
